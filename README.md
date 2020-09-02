@@ -1,1 +1,3 @@
-ProjectSocketChatter
+# ProjectSocketChatter
+
+Java开发的Socket聊天室，客户端风格仿照QQ
